@@ -1,6 +1,6 @@
 package Sub::Auto;
 
-our $VERSION = 0.0201;
+our $VERSION = 0.0202;
 
 =head1 NAME
 
